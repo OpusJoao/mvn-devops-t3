@@ -1,0 +1,6 @@
+enums\Plano.class
+enums\StatusPagamento.class
+model\Curso.class
+model\Administrador.class
+model\Aluno.class
+model\Pagamento.class
